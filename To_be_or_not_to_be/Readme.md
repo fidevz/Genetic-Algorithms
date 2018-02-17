@@ -44,7 +44,6 @@ Create the next generation with the method
 |biggest| index of the fittest DNA in the current generation |
 |second| index of the second best DNA in the current generation |
 |avg_fitness| Average of all the DNA fitness |
-|genes| numpy array that has all the DNA objects |
 
 #### The DNA class
 |Attributes|  Description|
