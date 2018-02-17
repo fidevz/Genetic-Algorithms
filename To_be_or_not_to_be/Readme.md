@@ -295,7 +295,7 @@ Genes: To be or not to be.
 Final generation: 78
 Genes:  To be or not to be.
 ### Learning path
-
+![Average fitness through generatinos](https://github.com/Fidelopez/Genetic-Algorithms/blob/master/To_be_or_not_to_be/Example_results.png)
 ----------
 
 
